@@ -1,16 +1,1 @@
-[2022-05-18 15:40:40.917] - [INFO] - Starting DatabaseDocumentGenerationApplication using Java 1.8.0_212 on simple with PID 35291 (/Users/maxianfei/IdeaProjects/database-document-generation/target/classes started by maxianfei in /Users/maxianfei/IdeaProjects/database-document-generation)
-[2022-05-18 15:40:40.919] - [INFO] - No active profile set, falling back to 1 default profile: "default"
-[2022-05-18 15:40:41.461] - [INFO] - Started DatabaseDocumentGenerationApplication in 0.868 seconds (JVM running for 1.359)
-[2022-05-18 15:40:41.463] - [INFO] - 开始生成...
-[2022-05-18 15:40:41.464] - [INFO] - HikariPool-1 - Starting...
-[2022-05-18 15:40:41.627] - [INFO] - HikariPool-1 - Start completed.
-[2022-05-18 15:40:42.142] - [INFO] - 执行已完成
-[2022-05-18 15:40:42.142] - [ERROR] - wans
-[2022-05-18 15:42:23.559] - [WARN] - InetAddress.getLocalHost().getHostName() took 5005 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
-[2022-05-18 15:42:26.740] - [INFO] - Starting DatabaseDocumentGenerationApplication using Java 1.8.0_212 on simple with PID 35556 (/Users/maxianfei/IdeaProjects/database-document-generation/target/classes started by maxianfei in /Users/maxianfei/IdeaProjects/database-document-generation)
-[2022-05-18 15:42:26.742] - [INFO] - No active profile set, falling back to 1 default profile: "default"
-[2022-05-18 15:42:27.319] - [INFO] - Started DatabaseDocumentGenerationApplication in 19.09 seconds (JVM running for 24.518)
-[2022-05-18 15:42:27.320] - [INFO] - 开始生成...
-[2022-05-18 15:42:27.322] - [INFO] - HikariPool-1 - Starting...
-[2022-05-18 15:42:27.427] - [INFO] - HikariPool-1 - Start completed.
-[2022-05-18 15:42:27.819] - [INFO] - 执行已完成
+
